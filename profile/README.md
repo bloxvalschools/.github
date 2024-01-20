@@ -8,6 +8,6 @@ Games we've created:
 Want to work at Bloxval? [Click here](https://bloxvalschools.notion.site/Work-at-Bloxval-a8282b3331dd4304882083bf3e063a1c?pvs=4)
 
 For BCPS Dev Employees:
-- [Gaining access to bcpsAdmin Repo](go/bcpsadmin-dev-request)
-- [Become an org member](go/gh-member-request)
+- [Gaining access to bcpsAdmin Repo](http://go/bcpsadmin-dev-request)
+- [Become an org member](http://go/gh-member-request)
 
